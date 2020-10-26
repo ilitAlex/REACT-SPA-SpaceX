@@ -2,7 +2,7 @@ import React from "react";
 import './footer.css';
 import  logo from '../../logo.svg'
 
-const Footer = ({elon_twitter: elonMask, flickr, twitter, webSite}) => (
+const Footer = ({ links: {elon_twitter: elonMask, flickr, twitter, webSite}, summary }) => (
 
         <footer className="footer">
             <img src={logo} alt="logo Space X" className="logo"/>
@@ -19,7 +19,7 @@ const Footer = ({elon_twitter: elonMask, flickr, twitter, webSite}) => (
                 </ul>
             </nav>
             <p className="footer-text">
-                For additional questions, contact
+                {summary}
                 <a className="footer-link" href="mailto:rideshare@spacex.com"
                 >rideshare@spacex.com</a
                 >

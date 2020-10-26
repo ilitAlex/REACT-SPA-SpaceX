@@ -11,7 +11,7 @@ const rocketImages = {
 };
 
 const Features = (props) => {
-    console.log(props);
+
     const {name, height, diameter, mass, payload_weights: payloadWeights, description} = props;
     return (
     <section className="features">
