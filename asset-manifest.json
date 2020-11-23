@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/REACT-SPA-SpaceX/static/css/main.52e835e3.chunk.css",
+    "main.js": "/REACT-SPA-SpaceX/static/js/main.aa029966.chunk.js",
+    "main.js.map": "/REACT-SPA-SpaceX/static/js/main.aa029966.chunk.js.map",
+    "runtime-main.js": "/REACT-SPA-SpaceX/static/js/runtime-main.02d810cf.js",
+    "runtime-main.js.map": "/REACT-SPA-SpaceX/static/js/runtime-main.02d810cf.js.map",
+    "static/js/2.b8af1e47.chunk.js": "/REACT-SPA-SpaceX/static/js/2.b8af1e47.chunk.js",
+    "static/js/2.b8af1e47.chunk.js.map": "/REACT-SPA-SpaceX/static/js/2.b8af1e47.chunk.js.map",
+    "index.html": "/REACT-SPA-SpaceX/index.html",
+    "precache-manifest.0b6c1ff00d92b71b480046c09de2c20a.js": "/REACT-SPA-SpaceX/precache-manifest.0b6c1ff00d92b71b480046c09de2c20a.js",
+    "service-worker.js": "/REACT-SPA-SpaceX/service-worker.js",
+    "static/css/main.52e835e3.chunk.css.map": "/REACT-SPA-SpaceX/static/css/main.52e835e3.chunk.css.map",
+    "static/js/2.b8af1e47.chunk.js.LICENSE.txt": "/REACT-SPA-SpaceX/static/js/2.b8af1e47.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/REACT-SPA-SpaceX/static/media/logo.d5ab31ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02d810cf.js",
+    "static/js/2.b8af1e47.chunk.js",
+    "static/css/main.52e835e3.chunk.css",
+    "static/js/main.aa029966.chunk.js"
+  ]
+}
